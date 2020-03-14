@@ -1,11 +1,11 @@
-# `@test/c`
+# `@fresh502/test-b`
 
 > TODO: description
 
 ## Usage
 
 ```
-const c = require('@test/c');
+const testB = require('@fresh502/test-b');
 
 // TODO: DEMONSTRATE API
 ```
